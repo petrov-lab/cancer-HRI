@@ -1,0 +1,33 @@
+name: cancer-HRI
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.7.3
+  - pip=20.0.2
+  - altair=4.1.0
+  - biopython=1.74
+  - libdeflate=1.3
+  - jupyter=1.0.0
+  - jupyter_client=6.1.3
+  - jupyter_console=6.1.0
+  - jupyter_core=4.6.3
+  - jupyterlab=1.2.5
+  - jupyterlab_server=1.1.1
+  - matplotlib=3.2.1
+  - rpy2=3.1.0
+  - numpy=1.18.1
+  - pandas=1.0.1
+  - r-base=3.6
+  - scipy=1.4.1
+  - snakemake=5.27.4
+  - seaborn=0.10.0
+  - vega=3.2.0
+  - libgcc-ng=9.1.0
+  - jannovar-cli=0.36
+  - vega_datasets=0.8.0
+  - pip:
+    - jupyter-contrib-core
+    - jupyter_contrib_nbextensions
+    - jupyter_nbextensions_configurator
+    - astair==3.3.2
