@@ -1,5 +1,5 @@
 '''
-This script uses the rpy2 package to plot all main figures in R from the script PlotMainFigures.R
+This script uses the rpy2 package to plot all figures in R from the script AllPlottingFunctions.R
 '''
 
 import pandas as pd
