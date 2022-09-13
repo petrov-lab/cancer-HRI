@@ -1,0 +1,17 @@
+,BeginBin,variable,value
+0,1,Fraction_Ka,0.0
+1,10,Fraction_Ka,0.0
+2,100,Fraction_Ka,0.0
+3,1000,Fraction_Ka,7.62660158633313e-05
+4,3,Fraction_Ka,0.0
+5,30,Fraction_Ka,9.136592051164915e-05
+6,300,Fraction_Ka,0.0
+7,3000,Fraction_Ka,0.0
+8,1,Fraction_Ks,0.0
+9,10,Fraction_Ks,0.001072961373390558
+10,100,Fraction_Ks,0.00011539349180706209
+11,1000,Fraction_Ks,0.0
+12,3,Fraction_Ks,0.0
+13,30,Fraction_Ks,0.0002433682161109759
+14,300,Fraction_Ks,0.0
+15,3000,Fraction_Ks,0.0
