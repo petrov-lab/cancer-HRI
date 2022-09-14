@@ -19,7 +19,7 @@ A permutation-based, nonparametric (parameter-free) estimation of dN/dS. In this
 
 ### Usage
 ```
-usage: wrapper.py [-h] -input INPUT -output OUTPUT -ref REF
+usage: wrapper_dNdS.py [-h] -input INPUT -output OUTPUT -ref REF
 
 Calculates dN/dS using a permutation-based null model of mutagenesis per sample.
 
